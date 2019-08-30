@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "226544965254",
+    "firebase_url": "https://hijjawi-yurmouky.firebaseio.com",
+    "project_id": "hijjawi-yurmouky",
+    "storage_bucket": "hijjawi-yurmouky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226544965254:android:cddf0f3f2bd04109",
+        "android_client_info": {
+          "package_name": "com.yurmouky.hijjawi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226544965254-ji4qnttsha2946ocmjh2648li612bf2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yurmouky.hijjawi",
+            "certificate_hash": "167b3a8e18352d8e6bea10deb3ed0630ab366d13"
+          }
+        },
+        {
+          "client_id": "226544965254-v80ubco9lc9tbjdbftqv2hbabe4nta5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuvOg43jGaAFcF4Wq9692MLYMMEvyA4uI"
+        },
+        {
+          "current_key": "AIzaSyAQh2IakNufs2Pwgb79Kin1hyfn2qib7tk"
+        },
+        {
+          "current_key": "AIzaSyCmoF8yKGoMccCxnEaGCWnfGzRusBHhOS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226544965254-v80ubco9lc9tbjdbftqv2hbabe4nta5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

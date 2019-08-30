@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Hijjawi</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Email</string>
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in">Sign in </string>
+    <string name="action_sign_up">Sign up </string>
+    <string name="action_submit">Submit</string>
+    <string name="action_Firstname">First Name</string>
+    <string name="action_Lastname">Last Name</string>
+    <string name="action_Uni_ID">University ID</string>
+    <string name="action_Create_Account">Create Account </string>
+    <string name="action_sign_in_facebook">Sign in with facebook</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="Password">Password</string>
+    <string name="Confirm">Confirm Password</string>
+    <string name="Inform">Information</string>
+    <string name="signOut">Sign Out</string>
+    <string name="setting">Setting</string>
+    <string name="splash">Hijjawi Technology Elite</string>
+
+
+    <string name="auth_failed">Authentication failed</string>
+
+    <string name="facebook_app_id">697856617091029</string>
+    <string name="fb_login_protocol_scheme">fb697856617091029</string>
+
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    // notification
+
+
+    <string-array name="Specializations">
+        <item>Please select your Specialization</item>
+        <item>Civil Engineering</item>
+        <item>Computer Engineering</item>
+        <item>Communication Engineering</item>
+        <item>Power Engineering</item>
+        <item>Electronic Engineering</item>
+        <item>Industrial Engineering</item>
+        <item>Biomedical engineering</item>
+        <item>Architectural Engineering</item>
+
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:descendantFocusability="blocksDescendants"
+    android:weightSum="1">
+
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/seleced_Item"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="0.98"
+        android:background="@drawable/select"
+        android:fontFamily="serif-monospace"
+        android:gravity="center_vertical"
+        android:minHeight="?android:attr/listPreferredItemHeight"
+        android:paddingLeft="6dip"
+        android:text="Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="20dp">
+
+    </TextView>
+
+    <ImageButton
+        android:id="@+id/image_down"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="false"
+        android:background="@android:color/transparent"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+    <ImageButton
+        android:id="@+id/image_copy"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="false"
+        android:background="@android:color/transparent"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+
+</LinearLayout>
+
